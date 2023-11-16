@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "RjracrkWN6diQvt9LB/65y14r0OFCtXcnLE4dUhonbpKPX564NoR+l2p999SuvCdVjpFFoSZrRU+ZDnfmpwDwg==",
+  "dgSpecHash": "QNQVREIDyqAqSVt3cCqQ+XGjbGVKl51VJiU+JsepBIm9qanSl+4nrfjZC+Zt6Ly+GdRq+WdyQsvurDvwH4j6cQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Christian\\Documents\\projetos\\apprentice-project\\mains-project\\rank-cinefilo\\Service\\Service.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ShadowHood\\Documents\\projetos_pessoais\\rank_cinefilo\\Service\\Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ShadowHood\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ShadowHood\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ShadowHood\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }

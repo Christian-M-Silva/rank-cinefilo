@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Christian\\Documents\\projetos\\apprentice-project\\mains-project\\rank-cinefilo\\CrossCutting\\CrossCutting.csproj": {}
+    "C:\\Users\\ShadowHood\\Documents\\projetos_pessoais\\rank_cinefilo\\CrossCutting\\CrossCutting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Christian\\Documents\\projetos\\apprentice-project\\mains-project\\rank-cinefilo\\CrossCutting\\CrossCutting.csproj": {
+    "C:\\Users\\ShadowHood\\Documents\\projetos_pessoais\\rank_cinefilo\\CrossCutting\\CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Christian\\Documents\\projetos\\apprentice-project\\mains-project\\rank-cinefilo\\CrossCutting\\CrossCutting.csproj",
+        "projectUniqueName": "C:\\Users\\ShadowHood\\Documents\\projetos_pessoais\\rank_cinefilo\\CrossCutting\\CrossCutting.csproj",
         "projectName": "CrossCutting",
-        "projectPath": "C:\\Users\\Christian\\Documents\\projetos\\apprentice-project\\mains-project\\rank-cinefilo\\CrossCutting\\CrossCutting.csproj",
-        "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Christian\\Documents\\projetos\\apprentice-project\\mains-project\\rank-cinefilo\\CrossCutting\\obj\\",
+        "projectPath": "C:\\Users\\ShadowHood\\Documents\\projetos_pessoais\\rank_cinefilo\\CrossCutting\\CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\ShadowHood\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ShadowHood\\Documents\\projetos_pessoais\\rank_cinefilo\\CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ShadowHood\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -50,12 +50,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

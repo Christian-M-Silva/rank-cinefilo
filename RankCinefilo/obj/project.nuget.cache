@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "vYsTKF5gYGd25UDrjnw2mELWzzwCMhIqMiWUDLtQBkrEhoPCeRuqA+NwaD9pedI/6vuNe/mZ3IoHiQ0zGGJCOg==",
+  "dgSpecHash": "5jygp+q4amQyUY6l4mkGxTxmKMVVhAzm9vh+bnG8EA0Mlm1SZDR3/FLy6c0lFCmv5hNGoZh2lVPu6SOmFWuuOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Christian\\Documents\\projetos\\apprentice-project\\mains-project\\rank-cinefilo\\RankCinefilo\\RankCinefilo.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ShadowHood\\Documents\\projetos_pessoais\\rank_cinefilo\\RankCinefilo\\RankCinefilo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ShadowHood\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ShadowHood\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ShadowHood\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ShadowHood\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

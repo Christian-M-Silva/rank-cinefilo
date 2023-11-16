@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "cqmgrauhGVaBt4DCeGHoxylSruU/jY0U8rsKOd8HqMYv2hbWnvopNsz1Jz+Xhz2i98LNenGBT91B6sm1dJCepg==",
+  "dgSpecHash": "vXf94rtTXD/PBj7keJIew0bSEcFh21P11LcXsYb7mr+J8SxEKfzQO64BQ4fn6lNKyXdaFAy+5szejwOu8DLW3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Christian\\Documents\\projetos\\apprentice-project\\mains-project\\rank-cinefilo\\CrossCutting\\CrossCutting.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ShadowHood\\Documents\\projetos_pessoais\\rank_cinefilo\\CrossCutting\\CrossCutting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ShadowHood\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ShadowHood\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ShadowHood\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }
