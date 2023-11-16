@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Domain.Entities
 {
-    public class Movies
+    public abstract class Movies : BaseEntity
     {
         public string Name { get; set; }
         public float Assessment { get; set; }
